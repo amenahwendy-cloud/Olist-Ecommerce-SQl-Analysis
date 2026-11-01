@@ -1,18 +1,18 @@
 
-# 11Olist E-Commerce End-to-End SQL Analytics Project
+# Olist E-Commerce End-to-End SQL Analytics Project
 
  Project Overview
-This repository contains a comprehensive collection of "14 relational SQL queries" analyzing the **Olist E-Commerce dataset** (a Brazilian e-commerce public dataset comprising 100k+ orders from 2016 to 2018). 
+This repository contains a comprehensive collection of "14 relational SQL queries" analyzing the **Olist E-Commerce dataset** (a Brazilian e-commerce public dataset comprising of 100k+ orders from 2016 to 2018). 
 
 The goal of this project is to translate raw transactional data into actionable business insights regarding customer geography, seller performance, product category revenue, and logistics efficiency.
 
 ---
 
-## Technical Stack & Skills Demonstrated
+## Technical overviews
 * **Database Engine:** SQLite / MySQL
 * **SQL Concepts Applied:**
   * Multi-table `LEFT JOIN` and `INNER JOIN` operations
-  * Aggregate functions (`COUNT`, `AVG`, `SUM`, `ROUND`)
+  * Data aggregation & rounding (`COUNT`, `AVG`, `SUM`, `ROUND`)
   * Data grouping and sorting (`GROUP BY`, `ORDER BY`)
   * Conditional logic (`CASE WHEN ... THEN ... ELSE ... END`)
   * Data filtering & Null handling (`WHERE`, `HAVING`, `IS NOT NULL`)
